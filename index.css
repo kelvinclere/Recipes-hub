@@ -22,7 +22,7 @@
  }
   
 
- /* img {
+    img {
     display: block;
     width: 50%;
     margin: 1.8em auto 0 auto;
@@ -101,7 +101,7 @@
     .container {
       font-size: 14px;
     }
-  }*/
+  }
   
   * {
     padding: 0;
@@ -112,7 +112,7 @@
     body {
     background-color: #54C7F9;
   } 
-  /*.container {
+    .container {
     background-color: #ffffff;
     font-size: 16px;
     padding: 3em 2.8em;
@@ -223,4 +223,4 @@
     .container {
       font-size: 14px;
     }
-  }  */
+  }  

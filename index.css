@@ -1,7 +1,7 @@
-/* @import url("https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap"); */
+ @import url("https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap"); */
 
   /*navbar styling*/
-  /* .navbar{
+  .navbar{
     background-color: #54C7F9;
     padding: 10px;
     position: fixed;
@@ -22,7 +22,7 @@
  }
   
 
-  img {
+ /* img {
     display: block;
     width: 50%;
     margin: 1.8em auto 0 auto;

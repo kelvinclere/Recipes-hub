@@ -15,7 +15,6 @@
      color: white;
      font-family: 'Poppins';
      text-align: center;
-     margin-top: 50px;
      font-size: 35px;
      font-weight: 600;
      font-family: 'Oleo Script Swash Caps';
@@ -55,7 +54,7 @@
     font-size: 1em;
     font-weight: 400;
   } 
-    #show-recipe {
+    /* #show-recipe {
     font-size: 1em;
     position: relative;
     left: 75%;
@@ -65,7 +64,7 @@
     top: 1.5em;
     border-radius: 0.3em;
     font-weight: 600;
-  }
+  } */
   #recipe {
     position: absolute;
     background-color: #ffffff;

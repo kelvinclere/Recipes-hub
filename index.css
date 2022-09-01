@@ -5,6 +5,7 @@
     background-color: #54C7F9;
     padding: 10px;
     position: fixed;
+    display: inline-flex;
     width: 97%;
     margin-top: -10px;
 }
@@ -19,6 +20,15 @@
      font-weight: 600;
      font-family: 'Oleo Script Swash Caps';
      font-size: 52px;
+ }
+ #image1{
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+ }
+ #quote{
+  text-align: center;
+  color: #ffffff;
  }
   
  #error-msg{
